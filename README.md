@@ -1,4 +1,6 @@
 ### Olá. Eu sou Gabriel. Seja bem vindo(a)!
+### Hello. I'am Gabriel. Be Welcome!
+
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="300">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-cavalcante-de-jesus-oliveira&show_icons=true&theme=radical)
